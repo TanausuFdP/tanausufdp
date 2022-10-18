@@ -8,7 +8,7 @@
 
 📈 Since my graduation to the present I have been learning Vue JS, Three JS, Symphony, React and Angular on my own.
 
-🧩 Outside of tech too, I am a person who love being relaxed, playing videogames, reading books, watching films, going to the beach and spending time with my family and friends. I like travelling to new places as soon as I can and learning new cultures.
+🧩 Outside of tech too, I am a person who love being relaxed, playing videogames, reading books, watching films, going to the beach and spending time with my family and friends. I like travelling to new places and learning new cultures as soon as I can.
 
 🎖 I consider myself a very creative person, having several projects in mind. Responsibility, professionalism and creativity are three of the qualities that describe me.
 
