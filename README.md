@@ -1,16 +1,28 @@
-### 👋 Hi there!!
+## 👋 Hi there!!
 
-👨🏻‍🎓 I am Tanausú Fernández, a Junior Full-Stack Developer looking forward to putting all my knowledge into practice in large projects.
+I’m **Tanausú Fernández**, a Mid-Level **Full Stack Developer** with a passion for building scalable and efficient web applications. With 5 years of experience in the industry, I specialize in **React, TypeScript, Node.js, Next.js and PostgreSQL**, but I’m always eager to explore new technologies.
 
-⚙ I enjoy creating new Simple Web, Desktop or Mobile Projects on my own, or being part of a working group on a more ambitious project, no matter what languages and technologies are used (I always like to learn new experiences).
+### 🚀 What I do
+- **Frontend:** React, Next.js, TypeScript, JavaScript
+- **Backend:** Node.js, Prisma, Sequelize, PHP
+- **Databases:** PostgreSQL, MySQL, MariaDB
+- **Infrastructure & DevOps:** Coolify, CapRover, DigitalOcean, Vercel v0
+- **Testing:** Unit tests (Vitest, Jest), API tests, E2E tests (Playwright)
+- **Version Control & CI/CD:** Git, GitHub Actions
+- **Feature flagging:** Flagr
 
-📃 In my Computer Engineering Degree I learnt mostly Java, C, C++, SQLite, MySQL, HTML5, CSS3, JavaScript, Ajax, PHP and JSP, while practicing SCRUM (such as other Agile Methodologies). My Final Degree Project consisted of a mobile VR client-app (in Unity) and a Desktop serv-app.
+### 🎯 What I’m working on
+I’m currently developing **Daisy**, a platform designed to improve team meetings by allowing users to track daily updates, blockers, and progress in a structured feed. I’m also working on **Piicate**, a social network built around surveys, where users can create and interact through polls in an engaging way.
 
-📈 Since my graduation to the present I have been learning Vue JS, Three JS, Symphony, React and Angular on my own.
+### 📫 Get in touch
+- [GitHub](https://github.com/TanausuFdP)
+- [LinkedIn](https://www.linkedin.com/in/tanausufdp/)
+- [E-Mail](mailto:tanausufdp@icloud.com)
 
-🧩 Outside of tech too, I am a person who love being relaxed, playing videogames, reading books, watching films, going to the beach and spending time with my family and friends. I like travelling to new places and learning new cultures as soon as I can.
+### 🎮 Fun fact
+When I’m not coding, you’ll probably find me playing videogames, experimenting with homemade ice cream, going to the gym, or exploring new tech stacks.
 
-🎖 I consider myself a very creative person, having several projects in mind. Responsibility, professionalism and creativity are three of the qualities that describe me.
+
 
 <!--
 **TanausuFdP/tanausufdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
