@@ -1,40 +1,84 @@
-## 👋 Hi there!!
+# 👋 Hey, I’m Tanausú Fernández
 
-I’m **Tanausú Fernández**, a Mid-Level **Full Stack Developer** with a passion for building scalable and efficient web applications. With 5 years of experience in the industry, I specialize in **React, TypeScript, Node.js, Next.js and PostgreSQL**, but I’m always eager to explore new technologies.
+## About Me
 
-### 🚀 What I do
-- **Frontend:** React, Next.js, TypeScript, JavaScript
-- **Backend:** Node.js, Prisma, Sequelize, PHP
-- **Databases:** PostgreSQL, MySQL, MariaDB
-- **Infrastructure & DevOps:** Coolify, CapRover, DigitalOcean, Vercel v0
-- **Testing:** Unit tests (Vitest, Jest), API tests, E2E tests (Playwright)
-- **Version Control & CI/CD:** Git, GitHub Actions
-- **Feature flagging:** Flagr
+I’m a **Full Stack Developer** with 5 years of professional experience, focused on building useful, human-centered products and clean, scalable systems.
 
-### 🎯 What I’m working on
-I’m currently developing **Daisy**, a platform designed to improve team meetings by allowing users to track daily updates, blockers, and progress in a structured feed. I’m also working on **Piicate**, a social network built around surveys, where users can create and interact through polls in an engaging way.
+I enjoy working on products that actually solve problems — from internal team tools to user-facing applications — and I care a lot about code quality, DX, and long-term maintainability.
 
-### 📫 Get in touch
-- [GitHub](https://github.com/TanausuFdP)
-- [LinkedIn](https://www.linkedin.com/in/tanausufdp/)
-- [E-Mail](mailto:tanausufdp@icloud.com)
+🌱 Constantly learning and refining how I work (both technically and personally).
+<br />
+🧠 Interested in productivity, systems thinking, and mental health–aware development.
+<br />
+🤝 I value collaboration, clear communication, and pragmatic decision-making.
+<br />
 
-### 🎮 Fun fact
-When I’m not coding, you’ll probably find me playing videogames, experimenting with homemade ice cream, going to the gym, or exploring new tech stacks.
+> Make it simple or make it again
 
 
+## 🧰 Technologies & Tools
 
-<!--
-**TanausuFdP/tanausufdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs,vite" height="40" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Backend
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,php,express,nestjs,prisma,postman" height="40" />
+</div>
+
+
+### Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="40" />
+</div>
+
+
+### DevOps / Infra
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,linux,cloudflare,grafana" height="40" />
+</div>
+
+
+### Tooling & Workflow
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma,jira" height="40" />
+</div>
+
+
+## 🚀 What I’m Working On
+
+#### 🏢 Lead Full Stack Developer & Project Manager at SGMAS Software
+Leading the technical direction of projects, making architectural decisions, coordinating with stakeholders, and balancing delivery with code quality.
+
+#### 📈 Improving my skills
+Crafting internal tools, dashboards, and product features with React + TypeScript + Node. Improving testing strategies (unit, API, E2E) and CI/CD pipelines.
+
+#### 📖 Writing a novel
+I'm writing a psychological thriller / suspense novel, focused on trauma, identity, and internal conflict.
+
+## 🧠 Interests Beyond Code
+
+Building systems that reduce friction for teams
+<br />
+Productivity & habit design (without toxic hustle)
+<br />
+UX details that users don’t notice — because they just work
+<br />
+
+## 🔗 Links
+
+[![Website](https://img.shields.io/badge/Website-TanausuFdP-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://portfolio-omega-three-37.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@tanausufdp-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/tanausufdp/)
+
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/tanausufdp@icloud.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:tanausufdp@icloud.com)
